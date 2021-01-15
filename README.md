@@ -7,6 +7,9 @@ This repository is inspired by other developers in the Game Industry that have c
 ## Will this be only for games?
 Mostly! I do have another place for specific scripts in a non-game setting [here](https://github.com/maishiroma/OneOffScripts). 
 
+## Is all of the content here yours?
+Yes! If not, I made sure to credit the original source + owner of the script that I found it at!
+
 ## Is this really open and free?
 Sure! Sharing is caring after all. :) 
 
