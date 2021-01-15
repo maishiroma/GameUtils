@@ -5,11 +5,11 @@
  * 
  */
 
+using System.Collections;
+using UnityEngine;
+
 namespace GameUtils
 {
-    using System.Collections;
-    using UnityEngine;
-
     public static class HelperFuncs
     {
         // An Enumerator that times the destruction of a passed in object

@@ -5,11 +5,12 @@
  *  To use this, simply place this in your scripts folder and import in this namespace.
  */
 
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
 namespace GameUtils
 {
-    using System.Collections;
-    using System.Collections.Generic;
-    using UnityEngine;
 
     [System.Serializable]
     public struct SfxWrapper

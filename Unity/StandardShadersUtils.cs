@@ -5,11 +5,12 @@
  *  https://answers.unity.com/questions/1004666/change-material-rendering-mode-in-runtime.html
  */
 
-namespace GameUtils {
-    
-    using System.Collections;
-    using System.Collections.Generic;
-    using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace GameUtils 
+{
 
     public static class StandardShaderUtils {
 
